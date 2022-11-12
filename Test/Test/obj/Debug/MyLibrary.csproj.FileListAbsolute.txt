@@ -1,0 +1,5 @@
+E:\repos\Test\Test\bin\Debug\Test.dll
+E:\repos\Test\Test\bin\Debug\Test.pdb
+E:\repos\Test\Test\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+E:\repos\Test\Test\obj\Debug\Test.dll
+E:\repos\Test\Test\obj\Debug\Test.pdb
